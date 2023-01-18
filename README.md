@@ -1,4 +1,4 @@
-# EStore + Angular && Angular Material + NodeJS + Stripe(local Setup not hosted)  https://andrewe-store.web.app/home
+# EStore + Angular && Angular Material + NodeJS + Stripe(local Setup not hosted) + FakeStoreAPI https://andrewe-store.web.app/home
 
 # https://www.youtube.com/watch?v=b2xevwhx3Ts
 
