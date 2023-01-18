@@ -1,4 +1,4 @@
-# EStore + Angular && Angular Material + NodeJS + Stripe
+# EStore + Angular && Angular Material + NodeJS + Stripe(local Setup not hosted)  https://andrewe-store.web.app/home
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.5.
 
